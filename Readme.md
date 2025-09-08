@@ -33,11 +33,15 @@ Exploring the capabilities of modern Large Language Models (LLMs) to create spec
 *   Generative AI agent - a chatbot
 
 ## Technologies Used
-*   Python 3.x
+*   Python 3
 *   Google AI Generative Language (Gemini API)
 *   Pandas for data handling
 *   Kaggle Notebooks for development and experimentation
 *   Google speechtotext
+*   Google texttospeech
+*   Langchain
+*   Search Grounding
+*   Few shot prompting
 
 ## Setup and Usage
 1.  **Clone the repository:**
@@ -53,7 +57,7 @@ Exploring the capabilities of modern Large Language Models (LLMs) to create spec
     *   The main logic is contained within `notebooks/homeobot_project.ipynb`. Open this in Jupyter Notebook or VS Code.
 
 ## Demo
-*(Here, you can add a screenshot of your Kaggle notebook showing a sample conversation with Homeobot. Place the screenshot in your `images/` folder and link it here like this: `![Homeobot Demo](images/demo_screenshot.png)`)*
+!Homeobot chatboot (images/Homeobot_chatboot.png)
 
 ## Lessons Learned
 This project was a deep dive into prompt engineering and the practical application of LLMs. A key challenge was ensuring the model's responses were constrained to the provided homeopathic knowledge base to prevent hallucination. This project solidified my understanding of building real-world applications with Generative AI.
