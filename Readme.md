@@ -57,7 +57,7 @@ Exploring the capabilities of modern Large Language Models (LLMs) to create spec
     *   The main logic is contained within `notebooks/homeobot_project.ipynb`. Open this in Jupyter Notebook or VS Code.
 
 ## Demo
-!Homeobot chatboot (images/Homeobot_chatboot.png)
+!Homeobot chatbot (https://github.com/AakashDeshpande-GenAI/Homeobot-GenAI/blob/main/images/Homeobot_GenAI_chatboot.png)
 
 ## Lessons Learned
 This project was a deep dive into prompt engineering and the practical application of LLMs. A key challenge was ensuring the model's responses were constrained to the provided homeopathic knowledge base to prevent hallucination. This project solidified my understanding of building real-world applications with Generative AI.
