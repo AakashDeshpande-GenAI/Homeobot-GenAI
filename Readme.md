@@ -37,9 +37,10 @@ Exploring the capabilities of modern Large Language Models (LLMs) to create spec
 *   Google AI Generative Language (Gemini API)
 *   Pandas for data handling
 *   Kaggle Notebooks for development and experimentation
-*   Google speechtotext
-*   Google texttospeech
+*   Google speech-to-text
+*   Google text-to-speech
 *   Langchain
+*   Langraph
 *   Search Grounding
 *   Few shot prompting
 
