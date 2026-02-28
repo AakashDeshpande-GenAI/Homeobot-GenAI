@@ -47,7 +47,7 @@ Exploring the capabilities of modern Large Language Models (LLMs) to create spec
 ## Setup and Usage
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/Homeobot-GenAI.git
+    git clone https://github.com/AakashDeshpande-GenAI/Homeobot-GenAI.git
     cd Homeobot-GenAI
     ```
 2.  **Install dependencies:**
